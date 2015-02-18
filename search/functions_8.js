@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['insert_5fmany',['insert_many',['../classmongocxx_1_1collection.html#a9770ccfd40ef39fd22316afb5cbed603',1,'mongocxx::collection::insert_many(const container_type &amp;container, const options::insert &amp;options=options::insert())'],['../classmongocxx_1_1collection.html#a5785e2283b2c2cf29008f86d1b375eac',1,'mongocxx::collection::insert_many(document_view_iterator_type begin, document_view_iterator_type end, const options::insert &amp;options=options::insert())']]],
+  ['insert_5fone',['insert_one',['../classmongocxx_1_1collection.html#ad7c495103e07912da5838dabd908c61e',1,'mongocxx::collection::insert_one()'],['../classmongocxx_1_1model_1_1insert__one.html#a4d7d3874ca7192b7094fad236e195d18',1,'mongocxx::model::insert_one::insert_one()']]],
+  ['inserted_5fcount',['inserted_count',['../classmongocxx_1_1result_1_1bulk__write.html#a52fa1a0208a77a1303b578219e9cad3d',1,'mongocxx::result::bulk_write::inserted_count()'],['../classmongocxx_1_1result_1_1insert__many.html#a5e98434c9cbce21f26d8aa63c0ba66a1',1,'mongocxx::result::insert_many::inserted_count()']]],
+  ['inserted_5fid',['inserted_id',['../classmongocxx_1_1result_1_1insert__one.html#a303618f5c790c39e7ab6cdc071c228a4',1,'mongocxx::result::insert_one']]],
+  ['inserted_5fids',['inserted_ids',['../classmongocxx_1_1result_1_1bulk__write.html#acc334cbb9388f92bf0a21f71c7df771d',1,'mongocxx::result::bulk_write::inserted_ids()'],['../classmongocxx_1_1result_1_1insert__many.html#a686635e5a6249112e86f04f40a2f762d',1,'mongocxx::result::insert_many::inserted_ids()']]],
+  ['instance',['instance',['../classmongocxx_1_1instance.html#a5e13ff4c229a95828127bfe5b1072525',1,'mongocxx::instance::instance()'],['../classmongocxx_1_1instance.html#a88ef2933c835e6f1f4f86c8b45d927dd',1,'mongocxx::instance::instance(instance &amp;&amp;) noexcept']]]
+];

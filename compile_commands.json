@@ -1,0 +1,883 @@
+[
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/array/element.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/element.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/element.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/array/value.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/value.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/value.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/array/view.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/view.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/view.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/builder/core.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/builder/core.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/builder/core.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/document/element.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/element.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/element.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/document/value.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/value.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/value.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/document/view.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/view.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/view.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/oid.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/oid.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/oid.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/private/itoa.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/private/itoa.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/private/itoa.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/types.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/types.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/types.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DBSONCXX_EXPORT -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx.dir/types/value.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/types/value.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/types/value.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/array/element.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/element.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/element.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/array/value.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/value.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/value.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/array/view.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/view.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/array/view.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/builder/core.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/builder/core.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/builder/core.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/document/element.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/element.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/element.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/document/value.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/value.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/value.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/document/view.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/view.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/document/view.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/oid.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/oid.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/oid.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/private/itoa.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/private/itoa.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/private/itoa.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/types.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/types.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/types.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/bsoncxx/CMakeFiles/bsoncxx_static.dir/types/value.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/types/value.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/types/value.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include -I../src/third_party/catch/include    -o src/bsoncxx/test/CMakeFiles/test_bson.dir/bson_builder.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/test/bson_builder.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/test/bson_builder.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include -I../src/third_party/catch/include    -o src/bsoncxx/test/CMakeFiles/test_bson.dir/bson_util_itoa.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/test/bson_util_itoa.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/test/bson_util_itoa.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include -I../src/third_party/catch/include    -o src/bsoncxx/test/CMakeFiles/test_bson.dir/new_tests.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/test/new_tests.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/bsoncxx/test/new_tests.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/bulk_write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/bulk_write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/bulk_write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/client.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/client.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/client.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/collection.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/collection.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/collection.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/cursor.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/cursor.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/cursor.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/database.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/database.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/database.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/instance.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/instance.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/instance.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/model/delete_many.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_many.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_many.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/model/delete_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/model/insert_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/insert_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/insert_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/model/replace_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/replace_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/replace_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/model/update_many.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_many.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_many.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/model/update_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/model/write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/aggregate.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/aggregate.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/aggregate.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/bulk_write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/bulk_write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/bulk_write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/client.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/client.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/client.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/count.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/count.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/count.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/delete.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/delete.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/delete.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/distinct.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/distinct.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/distinct.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/find.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/find_one_and_delete.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_delete.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_delete.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/find_one_and_replace.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_replace.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_replace.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/find_one_and_update.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_update.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_update.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/insert.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/insert.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/insert.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/ssl.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/ssl.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/ssl.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/options/update.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/update.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/update.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/pipeline.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/pipeline.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/pipeline.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/private/libbson.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libbson.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libbson.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/private/libmongoc.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libmongoc.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libmongoc.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/read_preference.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/read_preference.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/read_preference.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/result/bulk_write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/bulk_write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/bulk_write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/result/delete.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/delete.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/delete.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/result/insert_many.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_many.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_many.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/result/insert_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/result/replace_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/replace_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/replace_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/result/update.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/update.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/update.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/uri.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/uri.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/uri.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_EXPORTS -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx.dir/write_concern.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/write_concern.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/write_concern.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/bulk_write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/bulk_write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/bulk_write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/client.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/client.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/client.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/collection.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/collection.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/collection.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/cursor.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/cursor.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/cursor.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/database.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/database.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/database.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/instance.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/instance.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/instance.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/model/delete_many.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_many.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_many.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/model/delete_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/model/insert_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/insert_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/insert_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/model/replace_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/replace_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/replace_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/model/update_many.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_many.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_many.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/model/update_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/model/write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/aggregate.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/aggregate.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/aggregate.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/bulk_write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/bulk_write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/bulk_write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/client.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/client.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/client.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/count.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/count.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/count.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/delete.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/delete.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/delete.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/distinct.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/distinct.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/distinct.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/find.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/find_one_and_delete.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_delete.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_delete.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/find_one_and_replace.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_replace.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_replace.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/find_one_and_update.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_update.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_update.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/insert.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/insert.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/insert.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/ssl.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/ssl.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/ssl.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/options/update.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/update.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/update.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/pipeline.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/pipeline.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/pipeline.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/private/libbson.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libbson.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libbson.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/private/libmongoc.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libmongoc.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libmongoc.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/read_preference.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/read_preference.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/read_preference.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/result/bulk_write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/bulk_write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/bulk_write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/result/delete.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/delete.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/delete.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/result/insert_many.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_many.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_many.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/result/insert_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/result/replace_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/replace_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/replace_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/result/update.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/update.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/update.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/uri.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/uri.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/uri.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -DMONGOCXX_TESTING -o src/mongocxx/CMakeFiles/mongocxx_mocked.dir/write_concern.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/write_concern.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/write_concern.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/bulk_write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/bulk_write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/bulk_write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/client.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/client.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/client.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/collection.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/collection.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/collection.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/cursor.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/cursor.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/cursor.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/database.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/database.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/database.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/instance.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/instance.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/instance.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/model/delete_many.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_many.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_many.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/model/delete_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/delete_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/model/insert_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/insert_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/insert_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/model/replace_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/replace_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/replace_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/model/update_many.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_many.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_many.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/model/update_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/update_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/model/write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/model/write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/aggregate.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/aggregate.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/aggregate.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/bulk_write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/bulk_write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/bulk_write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/client.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/client.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/client.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/count.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/count.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/count.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/delete.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/delete.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/delete.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/distinct.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/distinct.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/distinct.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/find.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/find_one_and_delete.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_delete.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_delete.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/find_one_and_replace.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_replace.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_replace.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/find_one_and_update.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_update.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/find_one_and_update.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/insert.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/insert.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/insert.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/ssl.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/ssl.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/ssl.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/options/update.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/update.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/options/update.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/pipeline.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/pipeline.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/pipeline.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/private/libbson.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libbson.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libbson.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/private/libmongoc.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libmongoc.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/private/libmongoc.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/read_preference.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/read_preference.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/read_preference.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/result/bulk_write.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/bulk_write.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/bulk_write.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/result/delete.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/delete.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/delete.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/result/insert_many.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_many.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_many.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/result/insert_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/insert_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/result/replace_one.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/replace_one.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/replace_one.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/result/update.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/update.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/result/update.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/uri.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/uri.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/uri.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include    -o src/mongocxx/CMakeFiles/mongocxx_static.dir/write_concern.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/write_concern.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/mongocxx/write_concern.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++   -DMONGOCXX_TESTING -DMONGO_CXX_DRIVER_COMPILING  -std=c++11 -O3 -DNDEBUG -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I../src -Isrc -Isrc/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core/include -I../src/third_party/catch/include    -o src/mongocxx/test/CMakeFiles/test_driver.dir/__/__/third_party/catch/main.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/third_party/catch/main.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/src/third_party/catch/main.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++     -std=c++11 -O3 -DNDEBUG -Iinstall/include/bsoncxx/v0.0    -o examples/bsoncxx/CMakeFiles/core.dir/core.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/bsoncxx/core.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/bsoncxx/core.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++     -std=c++11 -O3 -DNDEBUG -Iinstall/include/bsoncxx/v0.0 -Iinstall/include/mongocxx/v0.0    -o examples/mongocxx/CMakeFiles/aggregate.dir/aggregate.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/aggregate.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/aggregate.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++     -std=c++11 -O3 -DNDEBUG -Iinstall/include/bsoncxx/v0.0 -Iinstall/include/mongocxx/v0.0    -o examples/mongocxx/CMakeFiles/create.dir/create.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/create.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/create.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++     -std=c++11 -O3 -DNDEBUG -Iinstall/include/bsoncxx/v0.0 -Iinstall/include/mongocxx/v0.0    -o examples/mongocxx/CMakeFiles/index.dir/index.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/index.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/index.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++     -std=c++11 -O3 -DNDEBUG -Iinstall/include/bsoncxx/v0.0 -Iinstall/include/mongocxx/v0.0    -o examples/mongocxx/CMakeFiles/query.dir/query.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/query.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/query.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++     -std=c++11 -O3 -DNDEBUG -Iinstall/include/bsoncxx/v0.0 -Iinstall/include/mongocxx/v0.0    -o examples/mongocxx/CMakeFiles/remove.dir/remove.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/remove.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/remove.cpp"
+},
+
+{
+  "directory": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/build",
+  "command": "/usr/bin/c++     -std=c++11 -O3 -DNDEBUG -Iinstall/include/bsoncxx/v0.0 -Iinstall/include/mongocxx/v0.0    -o examples/mongocxx/CMakeFiles/update.dir/update.cpp.o -c /Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/update.cpp",
+  "file": "/Users/amidvidy/Documents/gitroot/mongo-cxx-driver/examples/mongocxx/update.cpp"
+}
+]
