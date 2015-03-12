@@ -158,7 +158,8 @@ namespace mongo {
             javascript running inside the Mongo server via eval() */
         TenGen,
         /** Javascript JSON compatible */
-        JS
+        JS,
+        Normal
     };
 
 }

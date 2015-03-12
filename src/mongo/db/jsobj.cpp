@@ -81,6 +81,10 @@ namespace mongo {
             if (format == TenGen) {
                 s << "NumberLong(" << _numberLong() << ")";
             }
+            else if(format == Normal)
+            {
+                s << _numberLong();
+            }
             else {
                 s << "{ \"$numberLong\" : \"" << _numberLong() << "\" }";
             }
