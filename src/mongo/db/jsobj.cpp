@@ -186,6 +186,11 @@ namespace mongo {
             if ( format == TenGen ) {
                 s << "ObjectId( ";
             }
+            else if(format == Normal)
+            {
+                 s << '"' << __oid() << '"';
+                 break;
+            }
             else {
                 s << "{ \"$oid\" : ";
             }
