@@ -235,7 +235,7 @@ namespace mongo {
                 s << " }";
             }
             else {
-                s << "Date( ";
+                //s << "Date( ";
                 if (pretty) {
                     Date_t d = date();
                     // The two cases in which we cannot convert Date_t::millis to an ISO Date string
@@ -256,7 +256,7 @@ namespace mongo {
                 else {
                     s << date().asInt64();
                 }
-                s << " )";
+              //  s << " )";
             }
             break;
         case RegEx:
